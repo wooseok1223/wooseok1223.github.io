@@ -9,18 +9,16 @@ layout: post
 2. 매핑되는 모델 클래스는 DB 테이블 필드 내역과 일치해야함
 3. 모델을 만들기 전에는 서비스에 맞는 데이터베이스 설계가 필요
 
-<h2> model 테이블 이름 선정 </h2>
+<h3> model 테이블 이름 선정 </h3>
 - DB 테이블명 : 디폴트 "앱이름_모델명"
 
 **예시))**
-
-<h2>Blog App</h2> 
+<h3>Blog App</h3> 
 Post model -> "blog_post"
-
 Comment model -> "comment_post"
-<h2>Shop App</h2>
-Item model -> "shop_item"
 
+<h3>Shop App</h3>
+Item model -> "shop_item"
 Review model -> "shop_review"
 
 <h3> 주의 사항 </h3>
