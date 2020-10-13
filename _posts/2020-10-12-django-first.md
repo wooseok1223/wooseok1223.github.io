@@ -14,11 +14,11 @@ layout: post
 
 **예시))**
 <h3>Blog App</h3> 
-Post model -> "blog_post"
+Post model -> "blog_post"<br/>
 Comment model -> "comment_post"
 
 <h3>Shop App</h3>
-Item model -> "shop_item"
+Item model -> "shop_item"<br/>
 Review model -> "shop_review"
 
 <h3> 주의 사항 </h3>
