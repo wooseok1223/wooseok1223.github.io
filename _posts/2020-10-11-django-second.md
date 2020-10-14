@@ -1,5 +1,5 @@
 ---
-title: Django 되돌아보기 (media 파일관)
+title: Django (media 파일)
 author: SeoWooSeok
 layout: post
 ---
