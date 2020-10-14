@@ -1,5 +1,5 @@
 ---
-title: Django 되돌아보기 1
+title: Django 되돌아보기 (models)
 author: SeoWooSeok
 layout: post
 ---
