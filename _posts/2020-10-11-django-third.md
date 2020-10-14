@@ -26,9 +26,9 @@ class ItemAdmin(admin.ModelAdmin):
 </code></pre>
 
 <h3> admin code </h3>
-list_display = 모델리스트에 출력할 컬럼지정
-ist_display_links = list_display 지정된 이름 중에, detail 링크를 걸 속성 리스트
-search_fields = admin내 검색UI를 통해, DB를 통한 where 쿼리 대상 필드 리스트
+- list_display = 모델리스트에 출력할 컬럼지정
+- ist_display_links = list_display 지정된 이름 중에, detail 링크를 걸 속성 리스트
+- search_fields = admin내 검색UI를 통해, DB를 통한 where 쿼리 대상 필드 리스트
 <pre><code>
 @admin.register(Post) #Wrapping
 class PostAdmin(admin.ModelAdmin):
