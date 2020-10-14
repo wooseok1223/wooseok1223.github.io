@@ -41,7 +41,7 @@ class Post(models.Model):
 </code></pre>
 
 위처럼 upload_to 속성을 사용하면 아래와 같이 이미지가 생성된다.
-<span class="image right"><img src="{{ 'assets/images/2020-10-11.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/2020-10-11.png' | relative_url }}" alt="" /></span>
 
 
 
