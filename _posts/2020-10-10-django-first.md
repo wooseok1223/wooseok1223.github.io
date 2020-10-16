@@ -2,6 +2,7 @@
 title: Django (models)
 author: SeoWooSeok
 layout: post
+comments : true
 ---
 <h3> model 기본 규칙 </h3>
  - 데이터 베이스 테이블과 파이썬 클래스를 1:1로 매핑
