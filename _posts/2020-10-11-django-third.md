@@ -2,6 +2,7 @@
 title: Django (admin)
 author: SeoWooSeok
 layout: post
+comments : true
 ---
 <h3> django admin </h3>
 1. django.contrib.admin 앱을 통해 제공

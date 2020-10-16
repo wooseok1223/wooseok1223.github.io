@@ -2,6 +2,7 @@
 title: Django (media 파일)
 author: SeoWooSeok
 layout: post
+comments : true
 ---
 <h3> Static & Media File </h3>
 - Static 파일
